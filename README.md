@@ -28,9 +28,9 @@ The spawned objects can be set to be able to break other objects in the system o
 
 ## Usage:
 
-```Main_Demo.scene``` demonstrates a mix of all settings for the different objects/scenarios.
+```Main_Demo.unity``` demonstrates a mix of all settings for the different objects/scenarios.
 
-```Click_Break_Demo``` demonstrates only the click to break and piece expiry.
+```Click_Break_Demo.unity``` demonstrates only the click to break and piece expiry.
 
 ### 1. Breakable Object:
 * ```Breakable.cs``` can be placed on an object that you want to be breakable. You then set it up as follows:
