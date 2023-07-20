@@ -13,6 +13,7 @@ A simple Unity implementation for breakable objects.
 
 ---
 
+<!-- BODY -->
 ## What does it do?
 An object can be set to be breakable by another objects velocity, or by click.
 <br>
@@ -23,8 +24,6 @@ On trigger, it is then destroyed and a new object is spawned in it's place that 
 A one shot audio file is played at time of triggering.
 
 The spawned objects can be set to be able to break other objects in the system or not <i>(for instance; in the demo the broken brick pieces can break the glass below them via their velocity).</i>
-
-
 
 ## Usage:
 
